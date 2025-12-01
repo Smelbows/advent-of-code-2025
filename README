@@ -1,0 +1,11 @@
+Advent of code 2025. This year's focus is using Wallaby to lead the TDD, and using AI to aid (but not do!) the challenges.
+
+### Commands
+
+To run the code for a day, use the "day" command
+
+eg `npm run day 1`
+
+To create the base files for a day use the "create-day" command
+
+eg `npm run create-day 2`
