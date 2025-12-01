@@ -1,4 +1,7 @@
-// index.ts
+export function greeting(name: string) {
+  return `Hello ${name}`;
+}
 
-const greeting: string = 'Hello, GeeksforGeeks!';
-console.log(greeting);
+const sarah = greeting('Sarah');
+
+console.log(sarah);
